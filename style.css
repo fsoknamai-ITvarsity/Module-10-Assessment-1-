@@ -1,0 +1,54 @@
+body{
+    font-family: Helvetiva, sans-serif;
+    background-color: aliceblue;
+}
+
+#getData{ 
+    color: slategrey;
+    background-color: white;
+    margin-left: 600px;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 20%;
+}
+
+#getList{
+    color: slategrey;
+    background-color: white;
+    text-align: center;
+    border-radius: 20%;
+}
+
+#myForm{
+    color: black;
+    text-align: center;
+}
+
+#submitForm{
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 20%;
+    background-color: ;
+    border: 0;
+    width: 5rem;
+    height: 5rem;
+    font-size: 1rem;
+}
+
+#greeting{
+    margin-top: 10px;
+    color: darkcyan;
+    text-align: center;
+}
+
+#message{
+    color: darkcyan;
+    text-align: center;
+}
+
+#posts{
+    color: darkcyan;
+    margin-left: 600px;
+}
